@@ -2,7 +2,7 @@
   "name": "vocab-builder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AloBordo1992.github.io/vocab-builder",
+  "homepage": "https://AloBordo1992.github.com/AloBordo1992/vocab-builder.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
