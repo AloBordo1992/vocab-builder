@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AloBordo1992/vocab-builder.git/static/css/main.f855e6bc.css",
+    "main.js": "/AloBordo1992/vocab-builder.git/static/js/main.334acc25.js",
+    "static/js/592.a0ff7d9b.chunk.js": "/AloBordo1992/vocab-builder.git/static/js/592.a0ff7d9b.chunk.js",
+    "static/media/logo.svg": "/AloBordo1992/vocab-builder.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AloBordo1992/vocab-builder.git/index.html",
+    "main.f855e6bc.css.map": "/AloBordo1992/vocab-builder.git/static/css/main.f855e6bc.css.map",
+    "main.334acc25.js.map": "/AloBordo1992/vocab-builder.git/static/js/main.334acc25.js.map",
+    "592.a0ff7d9b.chunk.js.map": "/AloBordo1992/vocab-builder.git/static/js/592.a0ff7d9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.334acc25.js"
+  ]
+}
